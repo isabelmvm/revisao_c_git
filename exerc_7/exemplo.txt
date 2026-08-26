@@ -1,0 +1,3 @@
+Primeira linha do arquivo.
+Numero gravado: 42
+Nova linha anexada ao final.
